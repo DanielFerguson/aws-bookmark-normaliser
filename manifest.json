@@ -4,7 +4,6 @@
     "description": "Normalises AWS Bookmaker names to their standard acronyms",
     "version": "1.0.0",
     "author": "gday@danferg.com",
-    "default_locale": "en",
     "permissions": [
         "activeTab"
     ],
